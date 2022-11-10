@@ -19,11 +19,3 @@
 <a href="mailto:yusuf.efe.792@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf Efe's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ysfeeazkl&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysfeeazkl&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
-</div>
-
-![snake svg](https://github.com/ysfeeazkl/ysfeeazkl/blob/output/github-contribution-grid-snake.svg)
