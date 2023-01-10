@@ -8,9 +8,9 @@
           Hi, I'm Yusuf Efe. I'm a Software Developer.
           <br />
           I'm currently working here 
-            Faha Software
+            Inavobil
           </a>
-          as a Back-End developer
+          as a Back-end developer
         </p>
 
 ### Contact with me via these platforms!
