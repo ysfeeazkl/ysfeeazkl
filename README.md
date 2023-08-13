@@ -8,7 +8,7 @@
           Hi, I'm Yusuf Efe. I'm a Software Developer.
           <br />
           I'm currently working here 
-            Inavobil
+            Magiclick Digital
           </a>
           as a Back-end developer
         </p>
