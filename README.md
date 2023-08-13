@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/ysfeeazkl?style=social)](https://github.com/furkanyilmazz?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/ysfeeazkl?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ysf.visitor-badge)](https://GitHub.com/furkanyilmazz/StrapDown.js/stargazers/)
+
 
 # Hi 👋
 
