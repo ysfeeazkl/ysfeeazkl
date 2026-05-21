@@ -6,13 +6,7 @@
 
 <p>
           Hi, I'm Yusuf Efe. I'm a Software Developer.
-          <br />
-          I'm currently working here 
-            Magiclick Digital
-          </a>
-          as a Back-end developer
-        </p>
-
+         
 ### Contact with me via these platforms!
 
 <a href="https://www.linkedin.com/in/yusuf-efe-azakl%C4%B1-75959b22a/" target="_blank" rel="nofollow"><img alt="Yusuf Efe's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
